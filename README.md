@@ -89,12 +89,13 @@ Data/
 ## 🖼️ Screenshots
 
 ### Homepage (Image Upload Interface)
-This is the main page where users can upload their X-ray images.  
-![Homepage Screenshot](resources/upload_file.png)
+This is the main page where users can upload their X-ray images. 
+![Home Page Screenshot](https://github.com/user-attachments/assets/9e2ea723-1e48-4e18-a3fa-f723837ee439)
+
 
 ### Result Page (Prediction Output)
 After uploading an image, users see the predicted class.  
-![Result Screenshot](resources/result_file.png)
+![Result Page Screenshot](https://github.com/user-attachments/assets/fd15a36a-8252-4c48-851e-f57d9096f4f2)
 
 ---
 
